@@ -1,0 +1,4 @@
+spreading_factor: 8
+bandwidth: 500.0e+3
+explicit_header: True
+carrier_frequency: 40.0e+6
